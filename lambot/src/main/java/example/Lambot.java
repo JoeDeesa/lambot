@@ -36,7 +36,7 @@ public class Lambot extends TelegramLongPollingBot {
 	@Override
 	public String getBotToken() {
 		 // Return bot token from BotFather
-        return "401859712:AAGkPDW5MFzXL227m2oZfIIuaE8VUuk2z5I";
+        return "";
 	}
 
 }
